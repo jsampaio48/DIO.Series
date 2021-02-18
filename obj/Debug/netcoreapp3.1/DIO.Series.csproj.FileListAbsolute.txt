@@ -1,0 +1,13 @@
+C:\Curso_DotNET\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Curso_DotNET\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Curso_DotNET\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Curso_DotNET\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Curso_DotNET\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Curso_DotNET\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Curso_DotNET\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Curso_DotNET\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Curso_DotNET\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Curso_DotNET\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Curso_DotNET\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Curso_DotNET\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Curso_DotNET\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
