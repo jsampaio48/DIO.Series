@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso_DotNET\\DIO\\DIO.Series\\DIO.Series.csproj": {}
+    "C:\\workspace\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\Curso_DotNET\\DIO\\DIO.Series\\DIO.Series.csproj": {
+    "C:\\workspace\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso_DotNET\\DIO\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "C:\\workspace\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "C:\\Curso_DotNET\\DIO\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "C:\\workspace\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\jsamp\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso_DotNET\\DIO\\DIO.Series\\obj\\",
+        "outputPath": "C:\\workspace\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jsamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
